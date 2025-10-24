@@ -1,0 +1,9 @@
+langchain
+wikipedia
+python-dotenv
+requests
+pydantic
+beautifulsoup4
+langchain-anthropic
+langchain-community
+langchain-openai
